@@ -9,7 +9,7 @@
 ---
 
 ## 배경 및 문제현황
-![problem](./problem.png)
+![problem](./../assets/images/problem.png)
 >PC사용이 증가하고 정보의 공유와 소통 등 대부분이 인터넷 통해 이루어지고 있다. 
 상대적으로 많은 정보를 한 화면에 보여주는 pc의 특성상 시야가 좁거나 글을 읽는데에 어려움이 있는 사람들은 정보에 접근하기가 어렵다. 
 
@@ -32,7 +32,7 @@
 ---
 
 ## Prototype
-![prototype](/prototype.png)
+![prototype](./../assets/images/prototype.png)
 
 ---
 
@@ -55,7 +55,7 @@
   - 오픈 소스로 글자, 이미지 등을 확대하는 기능 구현
   - 드래그로 돋보기 움직이는 기능 구현
   
-  ![zoom in](zoomin.png)
+  ![zoom in](./../assets/images/zoomin.png)
 
 
   ### 구현 과정
@@ -77,7 +77,7 @@
   - 드래그를 한 부분의 글씨를 input으로 주어 그 부분을 소리로 바꾸는  
     방법을 고안하는 중.
 
-    ![tts](/tts.jpg)
+    ![tts](./../assets/images/tts.jpg)
 
   ### 구현 과정
   - eSpeak (tts 기능 오픈소스)를 이용하려고 했으나, 소스파일을 확장프로그램과 연결시키는데 실패.
@@ -99,7 +99,7 @@
 
   #### `현재 진행 상태`
 
-   ![font](/font.jpg)
+   ![font](./../assets/images/font.jpg)
 
   ### 구현 과정
   - 처음엔 난독증 환자들에게 도움이 된다고 개발된 글씨체를 적용하려고 하였으나,
@@ -119,4 +119,4 @@
 
 ---
 ## 일정
-![일정](캡처.PNG)
+![일정](./../assets/images/캡처.PNG)
