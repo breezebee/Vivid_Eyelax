@@ -1,0 +1,11 @@
+{
+    "name":"test",
+    "description":"난독증, 노인분들의 인터넷 사용을 위한 크롬 확장",
+    "version":"1.0",
+    "permissions":["activeTab"],
+    "manifest_version":2,
+    "browser_action":{
+        "default_title" : "Eyelax",
+        "default_popup" : "test.html" 
+    }
+}
