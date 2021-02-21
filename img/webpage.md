@@ -31,7 +31,7 @@
 
 ---
 
-## Prototype
+## 
 ![prototype](./../assets/images/prototype.png)
 
 ---
